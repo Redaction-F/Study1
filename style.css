@@ -1,0 +1,21 @@
+html, body{
+    overflow: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.c_header img{
+    height: 500px;
+}
+
+.c_title {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.c_body {
+    margin-left: 10px;
+    margin-right: 10px;
+}
